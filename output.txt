@@ -1,0 +1,547 @@
+********************************* Welcome to KUET CSE *********************************
+
+********************************* For any action press Y *********************************
+
+Y
+
+Welcome to the Main Menu
+
+1.Database of students
+2.Events
+3.Update(Exclucive for managers)
+4.Payment
+5.Functions of this management program
+
+Enter your choice 1/2/3/4/5
+1
+
+1.Create Account
+2.Show all the data of the students
+3.Total number of students login
+
+Enter your choice
+1
+Name : Anika
+Hall : Rokeya
+Year : 1st
+Roll : 2107089
+
+
+To exit from this function and back to Main Menu press 0
+
+
+1
+
+1.Create Account
+2.Show all the data of the students
+3.Total number of students login
+
+Enter your choice
+1
+Name : Mahhia
+Hall : Rokeya
+Year : 1st
+Roll : 2107081
+
+
+To exit from this function and back to Main Menu press 0
+
+
+1
+
+1.Create Account
+2.Show all the data of the students
+3.Total number of students login
+
+Enter your choice
+1
+Name : Naquib
+Hall : Khan_Jahan_Ali
+Year : 1st
+Roll : 2107077
+
+
+To exit from this function and back to Main Menu press 0
+
+
+1
+
+1.Create Account
+2.Show all the data of the students
+3.Total number of students login
+
+Enter your choice
+2
+Students information:
+
+Name:Anika
+Roll:2107089
+Hall:Rokeya
+Year:1st
+
+
+Name:Mahhia
+Roll:2107081
+Hall:Rokeya
+Year:1st
+
+
+Name:Naquib
+Roll:2107077
+Hall:Khan_Jahan_Ali
+Year:1st
+
+
+
+
+To exit from this function and back to Main Menu press 0
+
+
+1
+
+1.Create Account
+2.Show all the data of the students
+3.Total number of students login
+
+Enter your choice
+3
+Total number of students login is : 3
+
+
+To exit from this function and back to Main Menu press 0
+
+
+0
+
+
+To exit from this entire program enter N else press any other key for going back to Main Menu
+!!
+l
+
+Welcome to the Main Menu
+
+1.Database of students
+2.Events
+3.Update(Exclucive for managers)
+4.Payment
+5.Functions of this management program
+
+Enter your choice 1/2/3/4/5
+5
+You can get all the necessary info regarding campfire....
+You can get all the necessary info regarding tour....
+You can get all the necessary info regarding payment and fees....
+
+
+To exit from this entire program enter N else press any other key for going back to Main Menu
+!!
+j
+
+Welcome to the Main Menu
+
+1.Database of students
+2.Events
+3.Update(Exclucive for managers)
+4.Payment
+5.Functions of this management program
+
+Enter your choice 1/2/3/4/5
+3
+
+1.Login as organizer first to access the other function
+2.Tour Fee
+3.Update Tour Venue
+4.Campfire Fee
+5.Total collection for tour
+6.Total collection for campfire
+
+Enter your choice
+1
+Enter your roll
+2107089
+
+
+To exit from this function and back to Main Menu press 0
+
+
+1
+
+1.Login as organizer first to access the other function
+2.Tour Fee
+3.Update Tour Venue
+4.Campfire Fee
+5.Total collection for tour
+6.Total collection for campfire
+
+Enter your choice
+2
+Enter your roll
+2107089
+Enter individual Ammount
+3800
+
+
+To exit from this function and back to Main Menu press 0
+
+
+1
+
+1.Login as organizer first to access the other function
+2.Tour Fee
+3.Update Tour Venue
+4.Campfire Fee
+5.Total collection for tour
+6.Total collection for campfire
+
+Enter your choice
+3
+Enter your roll
+2107089
+Enter number of places
+5
+Enter the places
+Kuakata_Beach
+Lal_kakrar_char
+Sundarban
+Fatrar_char
+Beach_Bazar
+
+
+To exit from this function and back to Main Menu press 0
+
+
+1
+
+1.Login as organizer first to access the other function
+2.Tour Fee
+3.Update Tour Venue
+4.Campfire Fee
+5.Total collection for tour
+6.Total collection for campfire
+
+Enter your choice
+4
+Enter your roll
+2107089
+Enter individual Ammount
+500
+
+
+To exit from this function and back to Main Menu press 0
+
+
+1
+
+1.Login as organizer first to access the other function
+2.Tour Fee
+3.Update Tour Venue
+4.Campfire Fee
+5.Total collection for tour
+6.Total collection for campfire
+
+Enter your choice
+5
+Enter your roll
+2107089
+Total collection for tour is 0 Tk
+
+
+To exit from this function and back to Main Menu press 0
+
+
+1
+
+1.Login as organizer first to access the other function
+2.Tour Fee
+3.Update Tour Venue
+4.Campfire Fee
+5.Total collection for tour
+6.Total collection for campfire
+
+Enter your choice
+6
+Enter your roll
+2107089
+Total collection for campfire is 0 Tk
+
+
+To exit from this function and back to Main Menu press 0
+
+
+1
+
+1.Login as organizer first to access the other function
+2.Tour Fee
+3.Update Tour Venue
+4.Campfire Fee
+5.Total collection for tour
+6.Total collection for campfire
+
+Enter your choice
+4
+Enter your roll
+2107088
+You are not an organizer
+You can not update any information
+
+
+To exit from this function and back to Main Menu press 0
+
+
+0
+
+
+To exit from this entire program enter N else press any other key for going back to Main Menu
+!!
+4
+
+Welcome to the Main Menu
+
+1.Database of students
+2.Events
+3.Update(Exclucive for managers)
+4.Payment
+5.Functions of this management program
+
+Enter your choice 1/2/3/4/5
+2
+
+1.Campfire
+2.Tour
+
+Enter your choice
+1
+Do you want to perform in campfire?If YES then press Y
+Y
+Enter your name
+Mahhia
+Enter your roll
+2107081
+Enter your performance
+Song
+Do you want to play in campfire?If YES then press Y
+Y
+Enter your name
+Shaila
+Enter your roll
+2107084
+Enter the name of the game
+Baloon_shooting
+
+
+To exit from this function and back to Main Menu press 0
+
+
+1
+
+1.Campfire
+2.Tour
+
+Enter your choice
+2
+Do you want to see the venue?Press Y to see the venue
+Y
+Kuakata_Beach
+Lal_kakrar_char
+Sundarban
+Fatrar_char
+Beach_Bazar
+
+Do you want to see total number of people going to tour?Press Y to see the number of people
+Y
+Total number of people going to tour is : 0
+
+
+To exit from this function and back to Main Menu press 0
+
+
+0
+
+
+To exit from this entire program enter N else press any other key for going back to Main Menu
+!!
+1
+
+Welcome to the Main Menu
+
+1.Database of students
+2.Events
+3.Update(Exclucive for managers)
+4.Payment
+5.Functions of this management program
+
+Enter your choice 1/2/3/4/5
+4
+
+1.Pay Tour Fee
+2.Pay Campfire Fee
+
+Enter your choice
+1
+Tour Fee is 3800
+Do you want to pay it?Press Y to pay
+Y
+Enter your roll :
+2107089
+Your Payment is successfully done...Thank you for your co-operation
+
+
+To exit from this function and back to Main Menu press 0
+
+
+1
+
+1.Pay Tour Fee
+2.Pay Campfire Fee
+
+Enter your choice
+2
+Campfire Fee is 500
+Do you want to pay it?Press Y to pay
+Y
+Enter your roll :
+2107086
+Your Payment is successfully done...Thank you for your co-operation
+
+
+To exit from this function and back to Main Menu press 0
+
+
+0
+
+
+To exit from this entire program enter N else press any other key for going back to Main Menu
+!!
+1
+
+Welcome to the Main Menu
+
+1.Database of students
+2.Events
+3.Update(Exclucive for managers)
+4.Payment
+5.Functions of this management program
+
+Enter your choice 1/2/3/4/5
+3
+
+1.Login as organizer first to access the other function
+2.Tour Fee
+3.Update Tour Venue
+4.Campfire Fee
+5.Total collection for tour
+6.Total collection for campfire
+
+Enter your choice
+1
+Enter your roll
+2107089
+
+
+To exit from this function and back to Main Menu press 0
+
+
+5
+
+1.Login as organizer first to access the other function
+2.Tour Fee
+3.Update Tour Venue
+4.Campfire Fee
+5.Total collection for tour
+6.Total collection for campfire
+
+Enter your choice
+2107089
+Exit
+
+
+To exit from this function and back to Main Menu press 0
+
+
+0
+
+
+To exit from this entire program enter N else press any other key for going back to Main Menu
+!!
+l
+
+Welcome to the Main Menu
+
+1.Database of students
+2.Events
+3.Update(Exclucive for managers)
+4.Payment
+5.Functions of this management program
+
+Enter your choice 1/2/3/4/5
+3
+
+1.Login as organizer first to access the other function
+2.Tour Fee
+3.Update Tour Venue
+4.Campfire Fee
+5.Total collection for tour
+6.Total collection for campfire
+
+Enter your choice
+1
+Enter your roll
+2107089
+
+
+To exit from this function and back to Main Menu press 0
+
+
+1
+
+1.Login as organizer first to access the other function
+2.Tour Fee
+3.Update Tour Venue
+4.Campfire Fee
+5.Total collection for tour
+6.Total collection for campfire
+
+Enter your choice
+5
+Enter your roll
+2107089
+Total collection for tour is 3800 Tk
+
+
+To exit from this function and back to Main Menu press 0
+
+
+1
+
+1.Login as organizer first to access the other function
+2.Tour Fee
+3.Update Tour Venue
+4.Campfire Fee
+5.Total collection for tour
+6.Total collection for campfire
+
+Enter your choice
+6
+Enter your roll
+2107089
+Total collection for campfire is 500 Tk
+
+
+To exit from this function and back to Main Menu press 0
+
+
+0
+
+
+To exit from this entire program enter N else press any other key for going back to Main Menu
+!!
+N
+
+
+
+*************** Thank you for your cooperation ***************
+
+
+
+Process returned 0 (0x0)   execution time : 438.136 s
+Press any key to continue.
